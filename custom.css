@@ -1,0 +1,17 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+.main {
+    width: 100%;
+    height: 100vh;
+    background-color: url('..image/istockphoto-1331100622-170667a.webp') ;
+    back-ground: cover;
+}
+.overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
